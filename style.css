@@ -3,6 +3,8 @@ p{
 }
 .container {
   border: 10px;
+  outline-color: black;
+  outline-size: 2px;
 }
 .myname {
   font-size: 30px;
