@@ -1,6 +1,9 @@
 p{
   color: black;
 }
+.container {
+  border: 20px;
+}
 .myname {
   font-size: 100px;
   float: left;
