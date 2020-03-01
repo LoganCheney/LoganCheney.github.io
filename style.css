@@ -8,10 +8,12 @@ p{
 .phone {
   font-size: 18px;
   float: left;
+  display: inline;
 }
 .email {
   font-size: 18px;
   float: right;
+  display: inline;
 }
 .summary {
   
