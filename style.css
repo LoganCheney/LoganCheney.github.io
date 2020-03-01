@@ -49,3 +49,33 @@ p{
 .historylist {
   
 }
+.jobsummary{
+
+}
+.joblist{
+
+}
+.jobtitle{
+
+}
+.specificjob{
+
+}
+.datesemployed{
+  float: right;
+  display: inline;
+}
+.employercity{
+  float: left;
+  display: inline;
+}
+.employername{
+  float: left;
+  display: inline;
+}
+.historycontent{
+
+}
+.workhistory{
+
+}
