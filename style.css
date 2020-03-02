@@ -27,39 +27,45 @@ p{
 .summarycontent {
   
 }
-.education{
+.education {
   
 }
 
-.workhistory{
 
+.workhistory {
+  font-size: 25px;
 }
-.jobheader{
+.historycontent {
+  
+}
+.jobheader {
   display: inline;
 }
-.historycontent{
-
-}
-.employername{
-  
-}
-.employercity{
+.employername {
   float: left;
-  display: inline;
+  font-size: 20px;
 }
-.datesemployed{
+.employercity {
+  float: left:
+  font-size: 20px;
+}
+.datesemployed {
   float: right;
-  display: inline;
+  font-size: 20px;
 }
-.jobtitle{
+.specificjob {
+  font-size: 20px;
+}
+.jobtitle {
+  font-size: 20px;
+}
+.jobsummary {
+  font-size: 20px;
+}
+.joblist {
+  font-size: 20px;
+}
 
-}
-.specificjob{
-
-}
-.joblist{
-
-}
 
 
 
