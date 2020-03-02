@@ -81,3 +81,7 @@ p{
 .workhistory{
 
 }
+.jobheader{
+  display: inline;
+  float: left;
+}
