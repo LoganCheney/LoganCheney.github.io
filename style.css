@@ -30,32 +30,26 @@ p{
 .education{
   
 }
-.workhistory {
-  font-size: 25px;
-}
-.historyemployername {
-  font-size: 20px;
-}
-.employername {
-  
-}
-.datesemployed {
-  
-}
-.historytitle {
+
+.workhistory{
 
 }
-.historydescription {
-  
+.jobheader{
+  display: inline;
 }
-.historylist {
-  
-}
-.jobsummary{
+.historycontent{
 
 }
-.joblist{
-
+.employername{
+  
+}
+.employercity{
+  float: left;
+  display: inline;
+}
+.datesemployed{
+  float: right;
+  display: inline;
 }
 .jobtitle{
 
@@ -63,23 +57,9 @@ p{
 .specificjob{
 
 }
-.datesemployed{
-  float: right;
-  display: inline;
-}
-.employercity{
-  float: left;
-  display: inline;
-}
-.employername{
-  
-}
-.historycontent{
+.joblist{
 
 }
-.workhistory{
 
-}
-.jobheader{
-  display: inline;
-}
+
+
